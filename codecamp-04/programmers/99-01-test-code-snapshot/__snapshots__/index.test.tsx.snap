@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`페이지 테스트 1`] = `
+<a
+  className="HOVERED"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  클릭하세요!
+</a>
+`;
+
+exports[`페이지 테스트 2`] = `
+<a
+  className="HOVERED"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  클릭하세요!
+</a>
+`;
+
+exports[`페이지 테스트 3`] = `
+<a
+  className="NORMAL"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  클릭하세요!
+</a>
+`;
